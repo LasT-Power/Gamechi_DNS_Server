@@ -1,0 +1,6 @@
+{
+  "dns_servers": ["1.1.1.1", "8.8.8.8"],
+  "obfuscation": true,
+  "port": 53,
+  "server_ip": "45.136.5.167"
+}
